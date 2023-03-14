@@ -1,0 +1,113 @@
+{
+    "scheduleName": "FACIM",
+    "course": "2023",
+    "period": "1",
+    "updatedDate": "2023-02-28 12:00:00.000000",
+    "simbology": {
+        "M": "Matemática I",
+        "P": "Programación I",
+        "D": "Matemática Discreta I",
+        "I": "Fundamentos de la informática",
+        "E": "Electiva",
+        "F": "Filosofía",
+        "N": "Seguridad Nacional",
+        "EF": "Educación Física"
+    },
+    "legend": {
+        "PP": "Prueba parcial",
+        "FJ": "Reunión FEU/UJC",
+        "DI": "Diagnóstico de Inglés",
+        "IC": "Acto de Inicio de Curso",
+        "S": "Seminario",
+        "L": "Laboratorio",
+        "T": "Taller",
+        "&": "Otras actividades",
+        "lowercase": "Clase práctica",
+        "uppercase": "Conferencia"
+    },
+    "importantDates": [
+        {
+            "date": "2023-02-28 12:00:00.000000",
+            "name": "Semana de la Victoria"
+        },
+        {
+            "date": "2023-02-28 12:00:00.000000",
+            "name": "Exámenes finales"
+        }
+    ],
+    "hours": [
+        "8:00-9:20",
+        "9:30-10:50",
+        "11:00-12:20",
+        "12:30-1:50",
+        "2:00-3:20",
+        "4:00-5:20"
+    ],
+    "weeks": [
+        {
+            "number": "3",
+            "weekStart": "20/feb",
+            "days": [
+                ["M","D","P","","",""],
+                ["I","P","N","","EF",""],
+                ["IC","F","F","","",""],
+                ["m","d","","","","EF"],
+                ["M","p","I&","","",""],
+                ["","","","","",""],
+                ["","","","","",""]
+            ]
+        },
+        {
+            "number": "4",
+            "weekStart": "27/feb",  
+            "days": [
+                ["m","fS","fS","","",""],
+                ["N","iS","p","","EF",""],
+                ["iS","F","F","","",""],
+                ["M","P","D","","","EF"],
+                ["i","p","","","",""],
+                ["","","","","",""],
+                ["","","","","",""]
+            ]
+        },
+        {
+            "number": "5",
+            "weekStart": "6/mar",
+            "days": [
+                ["m","fS","fS","","",""],
+                ["I","P","","","EF",""],
+                ["Sn","d","Sf","","",""],
+                ["m","p","","","","EF"],
+                ["M","p","D","","",""],
+                ["","","","","",""],
+                ["","","","","",""]
+            ]
+        },
+        {
+            "number": "6",
+            "weekStart": "13/mar",
+            "days": [
+                ["M","F","","","",""],
+                ["I&","pL","","","EF",""],
+                ["n","fS","F","","",""],
+                ["m","pL","d","","","EF"],
+                ["iS","P","","","",""],
+                ["","","","","",""],
+                ["","","","","",""]
+            ]
+        },
+        {
+            "number": "7",
+            "weekStart": "20/mar",
+            "days": [
+                ["M","PPF","F","","",""],
+                ["I","nT","p","","EF",""],
+                ["m","D","F","","",""],
+                ["m","D","pL","","","EF"],
+                ["N","pL","I&","","",""],
+                ["","","","","",""],
+                ["","","","","",""]
+            ]
+        }
+    ]
+}
