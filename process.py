@@ -5,7 +5,9 @@ from openpyxl import Workbook, load_workbook
 
 wb = Workbook()
 
-# TODO: Hacer un parser para cambiar la forma en la que los turnos son descritos a la forma en la que yo lo uso.
+# TODO Hacer un parser para cambiar la forma en la que los turnos son descritos a la forma en la que yo lo uso.
+
+
 def get_week(week_index) -> dict:
 
     days = []
