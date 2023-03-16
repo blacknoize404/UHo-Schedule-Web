@@ -2,7 +2,7 @@
     "scheduleName": "FACIM",
     "course": "2023",
     "period": "1",
-    "updatedDate": "2023-02-28 12:00:00.000000",
+    "updatedDate": "2023-02-28 12:00:00",
     "simbology": {
         "M": "Matemática I",
         "P": "Programación I",
@@ -27,11 +27,11 @@
     },
     "importantDates": [
         {
-            "date": "2023-02-28 12:00:00.000000",
+            "date": "2023-02-28 12:00:00",
             "name": "Semana de la Victoria"
         },
         {
-            "date": "2023-02-28 12:00:00.000000",
+            "date": "2023-02-28 12:00:00",
             "name": "Exámenes finales"
         }
     ],
