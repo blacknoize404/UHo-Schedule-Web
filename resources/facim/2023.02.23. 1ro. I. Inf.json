@@ -1,0 +1,227 @@
+{
+  "scheduleName": "Facultad de Informática Matemática",
+  "courseType": "CD",
+  "year": " 1ro",
+  "course": " 2023",
+  "period": "1er Período",
+  "updatedDate": "2023-02-23 12:00:00",
+  "simbology": {
+    "M": "Matemática I",
+    "P": "Programación I",
+    "D": "Matemática Discreta I",
+    "I": "Fundamentos de la informática",
+    "E": "Electiva",
+    "F": "Filosofía",
+    "N": "Seguridad Nacional",
+    "EF": "Educación Física"
+  },
+  "legend": {
+    "PP": "Prueba parcial",
+    "FJ": "Reunión FEU/UJC",
+    "DI": "Diagnóstico de Inglés",
+    "IC": "Acto de Inicio de Curso",
+    "S": "Seminario",
+    "L": "Laboratorio",
+    "T": "Taller",
+    "&": "Otras actividades",
+    "lowercase": "Clase práctica",
+    "uppercase": "Conferencia"
+  },
+  "hours": [
+    "8:00-9:20",
+    "9:30-10:50",
+    "11:00-12:20",
+    "12:30-1:50",
+    "2:00-3:20",
+    "4:00-5:20"
+  ],
+  "weeks": [
+    {
+      "number": "3",
+      "weekStart": "20/feb",
+      "days": [
+        ["M", "D", "P", "", "", ""],
+        ["I", "P", "N", "", "EF", ""],
+        ["IC", "F", "F", "", "", ""],
+        ["m", "d", "", "", "EF", ""],
+        ["M", "p", "&I", "", "", ""]
+      ]
+    },
+    {
+      "number": "4",
+      "weekStart": "27/feb",
+      "days": [
+        ["m", "Sf", "Sf", "", "", ""],
+        ["N", "Si", "p", "", "EF", ""],
+        ["M", "Si", "F", "", "", ""],
+        ["m", "P", "D", "", "EF", ""],
+        ["i", "F", "p", "", "", ""]
+      ]
+    },
+    {
+      "number": "5",
+      "weekStart": "6/mar",
+      "days": [
+        ["m", "Sf", "Sf", "", "", ""],
+        ["I", "P", "", "", "EF", ""],
+        ["M", "d", "Sf", "", "", ""],
+        ["Sn", "p", "", "", "EF", ""],
+        ["M", "p", "D", "", "", ""]
+      ]
+    },
+    {
+      "number": "6",
+      "weekStart": "13/mar",
+      "days": [
+        ["m", "F", "", "", "", ""],
+        ["&I", "Lp", "", "", "EF", ""],
+        ["M", "Sf", "F", "", "", ""],
+        ["n", "Lp", "d", "", "EF", ""],
+        ["m", "Si", "P", "", "", ""]
+      ]
+    },
+    {
+      "number": "7",
+      "weekStart": "20/mar",
+      "days": [
+        ["m", "PPF", "F", "", "", ""],
+        ["I", "Tn", "p", "", "EF", ""],
+        ["M", "D", "F", "", "", ""],
+        ["N", "D", "", "", "EF", ""],
+        ["m", "Lp", "&I", "", "", ""]
+      ]
+    },
+    {
+      "number": "8",
+      "weekStart": "27/mar",
+      "days": [
+        ["Pase Elecciones", "", "", "", "", ""],
+        ["Si", "Sf", "m", "", "EF", ""],
+        ["PPM", "d", "Sf", "", "", ""],
+        ["Lp", "d", "", "", "EF", ""],
+        ["M", "I", "D", "", "", ""]
+      ]
+    },
+    {
+      "number": "9",
+      "weekStart": "3/abr",
+      "days": [
+        ["m", "Sf", "F", "", "", ""],
+        ["PPP", "Sn", "Li", "", "EF", ""],
+        ["M", "Tf", "F", "", "", ""],
+        ["N", "d", "", "", "EF", ""],
+        ["Feriado", "", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "10",
+      "weekStart": "10/abr",
+      "days": [
+        ["m", "Sf", "Sf", "", "", ""],
+        ["Sn", "D", "i", "", "EF", ""],
+        ["M", "f", "F", "", "", ""],
+        ["P", "d", "", "", "EF", ""],
+        ["m", "Li", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "11",
+      "weekStart": "24/abr",
+      "days": [
+        ["M", "Sf", "Sf", "", "", ""],
+        ["p", "i", "Li", "", "EF", ""],
+        ["PPD", "F", "i", "", "", ""],
+        ["m", "Lp", "D", "", "EF", ""],
+        ["M", "Sf", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "12",
+      "weekStart": "1/may",
+      "days": [
+        ["Feriado", "", "", "", "", ""],
+        ["Asignaturas Electivas", "", "", "", "", ""],
+        ["", "", "", "", "", ""],
+        ["", "", "", "", "", ""],
+        ["", "", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "13",
+      "weekStart": "8/may",
+      "days": [
+        ["m", "I", "", "", "", ""],
+        ["Lp", "Tn", "&I", "", "EF", ""],
+        ["PPN", "d", "", "", "", ""],
+        ["m", "P", "", "", "EF", ""],
+        ["Pase Día de las Madres", "", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "14",
+      "weekStart": "15/may",
+      "days": [
+        ["Pase Día de las Madres", "", "", "", "", ""],
+        ["p", "Si", "", "", "EF", ""],
+        ["M", "D", "", "", "", ""],
+        ["Lp", "d", "", "", "EF", ""],
+        ["m", "m", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "15",
+      "weekStart": "22/may",
+      "days": [
+        ["M", "i", "", "", "", ""],
+        ["Lp", "D", "", "", "EF", ""],
+        ["m", "d", "", "", "", ""],
+        ["N", "D", "&I", "", "EF", ""],
+        ["M", "P", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "16",
+      "weekStart": "29/may",
+      "days": [
+        ["m", "I", "d", "", "", ""],
+        ["Sn", "p", "m", "", "EF", ""],
+        ["PPM", "D", "", "", "", ""],
+        ["Lp", "Lp", "", "", "EF", ""],
+        ["M", "d", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "17",
+      "weekStart": "5/jun",
+      "days": [
+        ["m", "N", "", "", "", ""],
+        ["Lp", "D", "", "", "EF", ""],
+        ["M", "Sn", "", "", "", ""],
+        ["PPP", "", "", "", "EF", ""],
+        ["m", "D", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "18",
+      "weekStart": "12/jun",
+      "days": [
+        ["M", "Lp", "", "", "", ""],
+        ["n", "d", "m", "", "", ""],
+        ["Sm", "Si", "&N", "", "", ""],
+        ["M", "d", "", "", "", ""],
+        ["Pase Día de los Padres", "", "", "", "", ""]
+      ]
+    },
+    {
+      "number": "19",
+      "weekStart": "19/jun",
+      "days": [
+        ["Pase Día de los Padres", "", "", "", "", ""],
+        ["m", "Lp", "", "", "", ""],
+        ["M", "Tn", "", "", "", ""],
+        ["PPD", "Lp", "", "", "", ""],
+        ["m", "Ti", "", "", "", ""]
+      ]
+    }
+  ]
+}
