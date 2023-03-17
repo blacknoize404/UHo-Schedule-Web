@@ -1,6 +1,5 @@
 import json
 from math import floor
-from pprint import pprint
 from openpyxl import Workbook, load_workbook
 
 wb = Workbook()
@@ -33,11 +32,13 @@ def get_week(week_index) -> dict:
 
     week_start_date = str(wb["1º"].cell(
         initial_row-2, week_start_index+1).value)
+    
     week_start_date_parsed = parse_week_date(
         week_start_date) if week_start_date != "None" else ""
 
     week_cell_number = str(wb["1º"].cell(
         initial_row-2, week_start_index).value)
+    
     week_cell_number = week_cell_number if week_cell_number != "None" else ""
     result = {
         "number": week_cell_number,
@@ -62,7 +63,6 @@ def parse_week_date(input: str):
     else:
         return input
 
-
 def get_weeks():
 
     is_empty = False
@@ -80,7 +80,6 @@ def get_weeks():
         current_index += 1
 
     return weeks
-
 
 def parse_title(input: str):
     title = input.strip().split(' ')
@@ -104,13 +103,11 @@ def parse_title(input: str):
 
     return result_dict
 
-
 def parse_name(input: str):
     if input.count(':'):
         input = input.split(':')[1].strip()
 
     return input
-
 
 def parse_schedule():
     global wb
@@ -162,7 +159,6 @@ def parse_schedule():
         "weeks": weeks
     }
     return output
-
 
 parsed_schedule = parse_schedule()
 
