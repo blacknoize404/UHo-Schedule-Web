@@ -1,0 +1,11 @@
+v0.3a
+- Nuevos íconos
+- Adaptación y mejora de código
+- Verificación de nuevas versiones y notificación
+
+v0.2a
+- Corrección de algunos elementos del horario.
+- arreglo de un bug que no permitía mostrar el siguiente día de clases en los fines de semana.
+
+v0.1a
+- Lanzamiento de la app de horarios

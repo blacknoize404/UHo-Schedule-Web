@@ -1,0 +1,7 @@
+{
+    "last_version":{
+        "version": "v0.3a",
+        "download_link": "https://raw.githubusercontent.com/blacknoize404/UHo-Schedule-Web/master/releases/UHo Schedule v0.3a",
+        "changelog": "- Corrección de algunos elementos del horario.\n- arreglo de un bug que no permitía mostrar el siguiente día de clases en los fines de semana."
+    }
+}
