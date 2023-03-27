@@ -2,12 +2,8 @@
     "facim": {
         "Ing. Informática": {
             "CD": {
-                "1ro": [
-                    "resources/facim/2023.02.23. 1ro I. Informática.json"
-                ],
-                "2do": [
-                    "resources/facim/2023.02.23. 2do I. Informática.json"
-                ]
+                "1ro": "resources/facim/2023.02.23. 1ro I. Informática.json",
+                "2do": "resources/facim/2023.02.23. 2do I. Informática.json"
             }
             
         }
