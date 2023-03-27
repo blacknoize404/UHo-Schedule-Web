@@ -1,9 +1,15 @@
 {
-    "FACIM": {
-        "I.Inf": {
-            "1": [
-                "resources/facim/2023.02.23. 1ro. I. Inf.json"
-            ]
+    "facim": {
+        "Ing. Informática": {
+            "CD": {
+                "1ro": [
+                    "resources/facim/2023.02.23. 1ro I. Informática.json"
+                ],
+                "2do": [
+                    "resources/facim/2023.02.23. 2do I. Informática.json"
+                ]
+            }
+            
         }
         
     }

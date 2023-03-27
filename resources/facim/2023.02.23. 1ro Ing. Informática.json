@@ -1,8 +1,11 @@
 {
-  "scheduleName": "FACIM",
+  "scheduleName": "Facultad de Informática Matemática",
+  "career": "Ing. Informática",
+  "courseType": "CD",
+  "year": "1ro",
   "course": "2023",
-  "period": "1",
-  "updatedDate": "2023-03-22 12:00:00",
+  "period": "1er Período",
+  "updatedDate": "2023-02-23 12:00:00",
   "simbology": {
     "M": "Matemática I",
     "P": "Programación I",
@@ -23,18 +26,6 @@
     "T": "Taller",
     "&": "Otras actividades"
   },
-  "importantDates": [
-    {
-      "date": "2023-04-17 12:00:00",
-      "end_date": "2023-04-23 12:00:00",
-      "name": "Semana de la Victoria"
-    },
-    {
-      "date": "2023-06-26 12:00:00",
-      "end_date": "2023-07-23 12:00:00",
-      "name": "Exámenes finales"
-    }
-  ],
   "hours": [
     "8:00-9:20",
     "9:30-10:50",
@@ -61,9 +52,9 @@
       "days": [
         ["m", "fS", "fS", "", "", ""],
         ["N", "iS", "p", "", "EF", ""],
-        ["iS", "F", "F", "", "", ""],
-        ["M", "P", "D", "", "EF", ""],
-        ["i", "p", "", "", "", ""]
+        ["M", "iS", "F", "", "", ""],
+        ["m", "P", "D", "", "EF", ""],
+        ["i", "F", "p", "", "", ""]
       ]
     },
     {
@@ -72,8 +63,8 @@
       "days": [
         ["m", "fS", "fS", "", "", ""],
         ["I", "P", "", "", "EF", ""],
-        ["Sn", "d", "Sf", "", "", ""],
-        ["m", "p", "", "", "EF", ""],
+        ["M", "d", "fS", "", "", ""],
+        ["nS", "p", "", "", "EF", ""],
         ["M", "p", "D", "", "", ""]
       ]
     },
@@ -81,7 +72,7 @@
       "number": "6",
       "weekStart": "13/mar",
       "days": [
-        ["M", "F", "", "", "", ""],
+        ["m", "F", "", "", "", ""],
         ["I&", "pL", "", "", "EF", ""],
         ["M", "fS", "F", "", "", ""],
         ["n", "pL", "d", "", "EF", ""],
@@ -92,7 +83,7 @@
       "number": "7",
       "weekStart": "20/mar",
       "days": [
-        ["m", "F PP", "F", "", "", ""],
+        ["m", "FPP", "F", "", "", ""],
         ["I", "nT", "p", "", "EF", ""],
         ["M", "D", "F", "", "", ""],
         ["N", "D", "", "", "EF", ""],
