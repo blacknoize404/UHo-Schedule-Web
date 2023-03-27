@@ -1,3 +1,6 @@
+V0.4
+- Preparación para distintos horarios de distintas carreras
+
 v0.3a
 - Nuevos íconos
 - Adaptación y mejora de código
