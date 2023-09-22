@@ -1,0 +1,2618 @@
+{
+  "scheduleName": "schoolSchedule",
+  "author": "Barnés",
+  "createdDate": "2023-09-22 12:39:59",
+  "updatedDate": "2023-09-22 12:39:59",
+  "lastTimeDownloaded": "",
+  "academy": "Universidad de Holguín",
+  "faculty": "FACIM",
+  "career": "Ing. Informática",
+  "course": "CD",
+  "courseType": "1ro",
+  "year": "2023",
+  "period": "2do Período",
+  "endDate": "",
+  "weeks": [
+    {
+      "number": 24,
+      "startDate": "2023-09-04",
+      "days": [
+        {
+          "date": "2023-09-04",
+          "events": [
+            {
+              "turn": 1,
+              "type": "OTHER",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Inicio Período",
+              "annotations": "",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-05",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-06",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-07",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-08",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "startDate": "2023-09-11",
+      "days": [
+        {
+          "date": "2023-09-11",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-12",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-13",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "PRACTICAL",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-14",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Reunión FEU/UJC",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-15",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "PRACTICAL",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "startDate": "2023-09-18",
+      "days": [
+        {
+          "date": "2023-09-18",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-19",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-20",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-21",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-09-22",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "startDate": "2023-10-25",
+      "days": [
+        {
+          "date": "2023-10-25",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-26",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-27",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "PRACTICAL",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-28",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-29",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "startDate": "2023-10-02",
+      "days": [
+        {
+          "date": "2023-10-02",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-03",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-04",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-05",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-06",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "startDate": "2023-10-09",
+      "days": [
+        {
+          "date": "2023-10-09",
+          "events": []
+        },
+        {
+          "date": "2023-10-10",
+          "events": [
+            {
+              "turn": 1,
+              "type": "OTHER",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Feriado",
+              "annotations": "",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-11",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Reunión FEU/UJC",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-12",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-13",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Programación II",
+              "annotations": "Control parcial",
+              "color": null
+            },
+            {
+              "turn": 6,
+              "type": "PRACTICAL",
+              "startDate": "04:00:00",
+              "endDate": "05:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "startDate": "2023-10-16",
+      "days": [
+        {
+          "date": "2023-10-16",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-17",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-18",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-19",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-20",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "startDate": "2023-10-23",
+      "days": [
+        {
+          "date": "2023-10-23",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-24",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-25",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-26",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-27",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Programación II",
+              "annotations": "Control parcial",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "startDate": "2023-10-30",
+      "days": [
+        {
+          "date": "2023-10-30",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Seminario",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-10-31",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-01",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-02",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-03",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "startDate": "2023-11-06",
+      "days": [
+        {
+          "date": "2023-11-06",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Laboratorio",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-07",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Reunión FEU/UJC",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-08",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-09",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-10",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Taller",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "MIXED",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II y Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Control parcial y Taller",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "startDate": "2023-11-13",
+      "days": [
+        {
+          "date": "2023-11-13",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-14",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-15",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Programación II",
+              "annotations": "Seminario",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-16",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-17",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "startDate": "2023-11-20",
+      "days": [
+        {
+          "date": "2023-11-20",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-21",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Control parcial",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Programación II",
+              "annotations": "Control parcial",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-22",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Prueba parcial",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-23",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-24",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Laboratorio",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "startDate": "2023-11-27",
+      "days": [
+        {
+          "date": "2023-11-27",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-28",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-29",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-11-30",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-01",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "startDate": "2023-12-04",
+      "days": [
+        {
+          "date": "2023-12-04",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-05",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-06",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-07",
+          "events": [
+            {
+              "turn": 1,
+              "type": "MIXED",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II y Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Control parcial y Taller",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Taller",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-08",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "startDate": "2023-12-11",
+      "days": [
+        {
+          "date": "2023-12-11",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-12",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Reunión FEU/UJC",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 5,
+              "type": "CONFERENCE",
+              "startDate": "02:00:00",
+              "endDate": "03:20:00",
+              "name": "Educación Física II",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-13",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Prueba parcial",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II",
+              "annotations": "Control parcial",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "CONFERENCE",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Programación II",
+              "annotations": "Control parcial",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-14",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Laboratorio",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-12-15",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Seminario",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            },
+            {
+              "turn": 3,
+              "type": "PRACTICAL",
+              "startDate": "11:00:00",
+              "endDate": "12:20:00",
+              "name": "Matemática Discreta II",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "startDate": "2023-01-01",
+      "days": [
+        {
+          "date": "2023-01-01",
+          "events": [
+            {
+              "turn": 1,
+              "type": "CONFERENCE",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Otras actividades",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-01-02",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Defensa Nacional",
+              "annotations": "Taller",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "CONFERENCE",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Historia de Cuba",
+              "annotations": "Clase",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-01-03",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Matemática II",
+              "annotations": "Clase",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "PRACTICAL",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "",
+              "annotations": "Taller",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-01-04",
+          "events": [
+            {
+              "turn": 1,
+              "type": "MIXED",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Programación II y Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Control parcial y Taller",
+              "color": null
+            },
+            {
+              "turn": 2,
+              "type": "MIXED",
+              "startDate": "09:30:00",
+              "endDate": "10:50:00",
+              "name": "Programación II y Lenguaje Unificado de Modelado (UML)",
+              "annotations": "Control parcial y Taller",
+              "color": null
+            }
+          ]
+        },
+        {
+          "date": "2023-01-05",
+          "events": [
+            {
+              "turn": 1,
+              "type": "PRACTICAL",
+              "startDate": "08:00:00",
+              "endDate": "09:20:00",
+              "name": "Historia de Cuba",
+              "annotations": "Taller",
+              "color": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

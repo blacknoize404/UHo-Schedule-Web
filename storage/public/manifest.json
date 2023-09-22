@@ -1,0 +1,30 @@
+{
+    "serverName": "test0",
+    "serverVersion": 1,
+    "academies": [
+        {
+            "name": "Universidad de Holguín",
+            "faculties": [
+                {
+                    "name": "FACIM",
+                    "schedules": [
+                        {
+                            "author": "Barnés",
+                            "formatVersion": 1,
+                            "career": "Ing. Informática",
+                            "courseType": "CD",
+                            "year": "2023",
+                            "course": "1",
+                            "period": "2",
+                            "createdDate": "2023.02.23 21:27:16",
+                            "updatedDate": "2023.02.23 21:27:16",
+                            "lastTimeDownloaded": "2023.02.23 21:27:16",
+                            "endDate": "",
+                            "url": "resources/facim/2023.02.23. 1ro Ing. Informática.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "scheduleName": "userSchedule",
+    "author": "Barnés",
+    "createdDate": "2023-09-10 21:27:16",
+    "updatedDate": "2023-09-10 21:27:16",
+    "lastTimeDownloaded": "2023-09-17 19:42:16",
+    "weeks": [
+        {
+            "weekStart": "2023-09-10",
+            "days": [
+                {
+                    "date": "2023-09-10",
+                    "events": [
+                        {
+                            "startDate": "2023-09-10 21:27:16",
+                            "endDate": "2023-09-10 21:27:16",
+                            "name": "Nombre del evento",
+                            "annotations": "Cuerpo del evento",
+                            "color": "Color de fondo de la nota"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
